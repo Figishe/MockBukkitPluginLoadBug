@@ -1,0 +1,4 @@
+name: MyPlugin
+main: com.figishe.MockBukkitPluginLoadBug.MyPlugin
+version: 1.0
+api-version: 1.20
